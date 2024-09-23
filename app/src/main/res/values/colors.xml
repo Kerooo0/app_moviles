@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorFondoInput">#3C3C3C</color>"
+    <color name="textoColorInput">#FFFFFFFF</color>
+    <color name="textoColorLabel">#7d7c7c</color>
+    <color name="colorFondoBoton">#B22222</color>"
+    <color name="textoColorMensaje">#FFFFFFFF</color>
+
+
+</resources>
